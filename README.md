@@ -10,6 +10,7 @@ The managing and provisioning of resources has been made using infrastructure as
 * /cloud-resume - Contains all documents used in this project.
 * /resume-site - Contains all documents for website.
 * template.yaml - Yaml file for describing AWS infrastrcture.
+* Makefile - Makefile containing shell comands.
 * index.html - The Index document for the website.
 * /css - CSS file for the website.
 * /js - JavaScript file for the website.
