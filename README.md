@@ -14,3 +14,6 @@ The managing and provisioning of resources has been made using infrastructure as
 * /css - CSS file for the website.
 * /js - JavaScript file for the website.
 * /img - The image file for the website.
+# Technologies used
+*  IAM, S3, Cloud Front, Route53, SAM/CloudFormation
+*  HTML, CSS, JavaScript, IaC/YAML
