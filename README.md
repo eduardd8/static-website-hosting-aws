@@ -7,6 +7,9 @@ The website is written in HTML, CSS, JavaScript and continuously deployed to an 
 The managing and provisioning of resources has been made using infrastructure as code (IaC) with the help of the open-source framework AWS SAM.
 
 # File Summary
+* /cloud-resume - Contains all documents used in this project.
+* /resume-site - Contains all documents for website.
+* template.yaml - Yaml file for describing AWS infrastrcture.
 * index.html - The Index document for the website.
 * /css - CSS file for the website.
 * /js - JavaScript file for the website.
